@@ -3,7 +3,7 @@
 
 ### Cloning and Downloading the Project
 
--   After reading the Instructions, I have downloaded the skeleton project of Matching Game from a link of GitHub which is provided by **Udacity**.
+-   After reading the Instructions, I have downloaded the skeleton project of Feed Reader from a link of GitHub which is provided by **Udacity**.
 -   Then I unzipped the skeleton project folder.
 -   After that I thoroughly checked `index.html`, `style.css`, `app.js` files. I checked how the _allFeeds_ variable is written.
 -   I checked the styles provided in css file.
